@@ -9,9 +9,9 @@ ScannerPro is a high-performance, cross-platform QR and Barcode scanning utility
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshots/homescreen.jpeg" width="250" alt="Home Screen" />
-  <img src="./screenshots/scanresults.jpeg" width="250" alt="Camera View" />
-  <img src="./screenshots/history.jpeg" width="250" alt="History Modal" />
+  <img src="screenshots/homescreen.jpeg" width="250" alt="Home Screen" />
+  <img src="screenshots/scanresults.jpeg" width="250" alt="Camera View" />
+  <img src="screenshots/history.jpeg" width="250" alt="History Modal" />
 </p>
 
 <br>
